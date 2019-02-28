@@ -4,10 +4,8 @@
  * and open the template in the editor.
  */
 package myfirstgame;
-import java.util.Random;
-import java.util.Scanner;
 import classes.App;
-import java.io.IOException;
+
 /**
  *
  * @author pupil
